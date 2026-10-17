@@ -1,0 +1,10 @@
+**/.venv/
+**/.venv
+backend/.venv
+frontend/node_modules
+**/node_modules/
+**/.next/
+**/.git/
+**/data/
+**/*.pyc
+**/__pycache__/
